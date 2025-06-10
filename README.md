@@ -21,8 +21,8 @@ This repository contains a Google Apps Script that performs batch sentiment anal
 ## 📋 Table of Contents
 
 1. [Installation](#%EF%B8%8F-installation)
-2. [Configuration](#%EF%B8%8F-configuration)  
-3. [Usage](#usage)  
+2. [Configuration](#%EF%B8%8F-configuration)
+3. [Usage](#%EF%B8%8F-usage)  
 4. [Code Structure](#-code-structure)  
 5. [Methodology](#-methodology)  
 6. [Results](#-results)  
